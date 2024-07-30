@@ -4,7 +4,7 @@ description: >-
   Increase your professional stature, and find an email service to host your own domain. Proton is my preference, and used in this guide.
 author: Riley Fitz
 date: 2024-07-08  +/-TTTT
-categories: [Basics, Hosting]
+categories: [Hosting]
 tags: [domain, dns, email]
 ---
 

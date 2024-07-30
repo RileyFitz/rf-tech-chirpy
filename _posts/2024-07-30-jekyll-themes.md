@@ -4,7 +4,7 @@ description: >-
   Jekyll is a powerful, simple markdown webpage thing. The power of knowing themes, gives limitless possibilities.
 author: Riley Fitz
 date: 2024-07-30 20:55:00 +0800
-categories: [Blogging, Tutorial]
+categories: [Frontend]
 tags: [Jekyll]
 ---
 

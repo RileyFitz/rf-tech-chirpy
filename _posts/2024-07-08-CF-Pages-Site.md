@@ -4,7 +4,7 @@ description: >-
   Set up a basic webpage to showcase yourself, for no cost, with automatic deployments from branch management.
 author: Riley Fitz
 date: 2024-07-08  +/-TTTT
-categories: [Basics, Hosting]
+categories: [Hosting]
 tags: [cloudflare, dns]
 ---
 
