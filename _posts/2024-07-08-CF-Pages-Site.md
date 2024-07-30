@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Custom Domain Website Using Cloudflare Pages"
-categories: Cloudflare
-author:
-- Riley Fitzgibbons
-meta: "Cloudflare Pages Domain"
+title: Custom Domain page using Cloudflare Pages
+description: >-
+  Set up a basic webpage to showcase yourself, for no cost, with automatic deployments from branch management.
+author: Riley Fitz
+date: 2024-07-08  +/-TTTT
+categories: [Basics, Hosting]
+tags: [cloudflare, dns]
 ---
 
 Cloudflare makes hosting a website, easy, secure, and completely free to host <3. While other cloud providers offer free tiers for a temporary time, Cloudflare(CF) offers a free tier with no time/credit limit.
@@ -39,7 +40,11 @@ To operate, CF needs to be the entity in charge of resolving DNS requests. If yo
 
 Otherwise, if your domain is owned elsewhere, prepare to transfer DNS responsiblity to CF. 
 
-I purchased on NameCheap, and had to do this process. Simply following CF's setup process for a domain, their documentation is excellent. For myself, CF was able to automatically import all my existing records including for my custom domain email, without issue.
+I purchased a domain on NameCheap, and had to do this process. Simply following CF's setup process for a domain, their documentation is excellent. For myself, CF was able to automatically import most of my existing records particularlly for my custom domain email.
+
+Note
+: I did have to redo the process for DKIM settings. Refer to my domain email post [here]() 
+
 
 At a certain point in this process CF will provide you with CF nameservers to change on your domain owners site.. You will need to login to your domain provider, such as NameCheap, and change who controls the nameserver. 
 

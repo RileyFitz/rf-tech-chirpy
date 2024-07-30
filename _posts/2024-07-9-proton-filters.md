@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Protonmail Aliases and Filters"
-categories: Domain Email
-author:
-- Riley Fitz
-meta: "Domain Email"
+title: Protonmail Aliases and Filters
+description: >-
+  Use Protonmail features to organize your email, and create different endpoints to reach you at.
+author: Riley Fitz
+date: 2024-07-08  +/-TTTT
+categories: []
+tags: [cloudflare, dns, email]
 ---
 
 ## Prereqs

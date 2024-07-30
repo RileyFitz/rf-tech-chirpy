@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Custom Domain Email Setup"
-categories: Domain Email
-author:
-- Riley Fitz
-meta: "Domain Email"
+title: Custom Domain Email Setup
+description: >-
+  Increase your professional stature, and find an email service to host your own domain. Proton is my preference, and used in this guide.
+author: Riley Fitz
+date: 2024-07-08  +/-TTTT
+categories: [Basics, Hosting]
+tags: [domain, dns, email]
 ---
 
 Creating your own custom domain email is simple, and relatively cheap. For programmers, and small businesses, I consider it a requirement. 
